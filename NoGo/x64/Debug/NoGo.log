@@ -1,0 +1,169 @@
+﻿  main.cpp
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(209,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(210,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(212,30): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(213,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(213,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(216,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(217,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(219,30): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(220,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(220,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(223,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(224,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(230,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(231,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(237,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(238,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(240,30): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(241,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(241,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(244,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(245,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(251,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(252,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(254,30): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(255,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(255,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(256,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(258,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(261,30): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(262,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(262,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(263,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(268,30): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(269,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(269,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(270,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(272,38): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(275,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(276,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(276,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(277,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(282,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(283,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(283,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(284,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(289,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(290,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(290,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(291,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(296,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(297,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(297,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(298,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(303,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(304,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(304,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(305,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(310,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(311,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(311,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(312,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(320,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(325,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(326,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(326,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(327,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(335,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(340,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(341,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(341,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(342,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(347,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(348,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(348,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(349,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(351,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(358,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(359,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(365,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(366,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(368,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(369,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(369,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(372,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(373,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(375,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(376,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(376,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(379,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(380,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(386,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(387,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(393,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(394,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(400,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(401,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(403,31): error C2001: 常量中有换行符
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(404,2): error C2146: 语法错误: 缺少“)”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(404,2): error C2146: 语法错误: 缺少“;”(在标识符“settextstyle”的前面)
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(407,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(408,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(414,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(415,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(421,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(422,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(428,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(429,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(435,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(436,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(442,27): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(443,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(447,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(448,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(449,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(450,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(454,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(455,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(456,25): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(457,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(461,40): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(462,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(463,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(464,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(470,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(471,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(537,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(548,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(616,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(616,54): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(616,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(616,17): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(725,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(784,20): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(785,24): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(810,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(816,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(843,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(846,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(866,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(944,15): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1078,75): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1079,74): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1171,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1176,93): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1177,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1184,93): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1185,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1195,17): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1200,93): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1201,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1208,93): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1209,34): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1220,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1225,92): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1226,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1233,92): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1234,33): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1267,26): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1268,31): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1271,39): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1276,13): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1282,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1324,116): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1324,43): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1416,21): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1426,30): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
+C:\Users\60995\Desktop\课程\2020 秋\计概\NoGo\final\计概大作业-nogo(2000012930)\main.cpp(1457,25): warning C4805: “==”: 在操作中将类型“int”与类型“bool”混合不安全
